@@ -6,8 +6,8 @@
       branch: stable
     location:
       enabled: true
-      latitude: 49.836750753
-      longitude: 8.700466454
+      latitude: 49.836899527
+      longitude: 8.700426221
     mesh-lan: false
     mesh-vpn: true
     mesh-wan: false
