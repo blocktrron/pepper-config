@@ -1,0 +1,4 @@
+prefix: "2001:67c:2ed8:6100::"
+config:
+  ssh-keys:
+    - blocktrron

@@ -1,0 +1,20 @@
+60e3274ff06b:
+  config:
+    hostname: 64367-blackbox
+    autoupdater:
+      enabled: true
+      branch: stable
+    location:
+      enabled: true
+      latitude: 49.836750753
+      longitude: 8.700466454
+    mesh-lan: false
+    mesh-vpn: true
+    mesh-wan: false
+    wireless:
+      2_4GHz: {}
+      5GHz: {}
+      private-wifi: {}
+  ignore: false
+  member-of: [darmstadt]
+  node-id: 60e3274ff06b

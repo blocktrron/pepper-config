@@ -1,0 +1,17 @@
+c04a00dd692a:
+  config:
+    hostname: 64367-blockheizkraftwerk
+    location:
+      enabled: true
+      latitude: 49.836899527
+      longitude: 8.700426221
+    mesh-lan: false
+    mesh-vpn: true 
+    mesh-wan: false
+    wireless:
+      2_4GHz: {}
+      5GHz: {}
+      private-wifi: {}
+  ignore: false
+  member-of: [darmstadt]
+  node-id: c04a00dd692a
